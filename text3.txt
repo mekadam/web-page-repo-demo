@@ -1,0 +1,1 @@
+This is the test file for PUSH operation from loacl master to Remote master.
